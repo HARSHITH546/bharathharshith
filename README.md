@@ -18,7 +18,6 @@ I'm a **Data Science Enthusiast**, passionate about **Machine Learning**, **AI**
 - **Version Control**: Git, GitHub
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Bharath Harshith](https://www.linkedin.com/in/bharath-harshith/)
 - Email: harshithbharatha@gmail.com)
 
 ## ⚡ Fun Fact:
