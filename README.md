@@ -1,4 +1,4 @@
-# Hello, I'm Bharath Harshith! 👋
+# Hello, I'm BharathA Harshith! 👋
 
 I'm a **Data Science Enthusiast**, passionate about **Machine Learning**, **AI**, and **Python**. Currently, I’m a student at **Badruka College of Information and Technology**.
 
